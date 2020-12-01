@@ -9,5 +9,5 @@ https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9
 3.Server-Driven UI for Android with Jetpack Compose</br>
 https://medium.com/rocket-fuel/server-driven-ui-for-android-with-jetpack-compose-6763ec60f33e
 </br></br>
-4.In App update</br></br>
+4.In App update</br>
 https://developer.android.com/guide/playcore/in-app-updates

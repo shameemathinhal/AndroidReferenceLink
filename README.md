@@ -13,13 +13,9 @@ https://medium.com/rocket-fuel/server-driven-ui-for-android-with-jetpack-compose
 https://developer.android.com/guide/playcore/in-app-updates
 </br>
 </br>
-Android Studio Logcat colors best practice</br>
+5.Android Studio Logcat colors best practice</br>
 Assert: 9C27B0</br>
-
 Debug: 2196F3</br>
-
 Error: F44336</br>
-
 Info: 4CAF50</br>
-
 Warning: FFC107</br>
